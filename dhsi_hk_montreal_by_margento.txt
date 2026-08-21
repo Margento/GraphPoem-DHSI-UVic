@@ -1,0 +1,299 @@
+[Foundations] Coding Fundamentals for Humanists
+Instructor(s): Marie-Hélène Burle and Alex Razoumov
+[Foundations] DH Leadership
+Instructor(s): Katherine D. Harris, Glen Layne-Worthey, and Ray Siemens
+[Foundations] Intersectional Feminist Digital Humanities: Theoretical, Social, and Material Engagements
+Instructor(s): Elizabeth Losh and Jennifer Ross
+[Foundations] Introduction to Digital Approaches in Music Research
+Instructor(s): Tim Duguid
+[Foundations] Introduction to Textual Analysis: A Course on Voyant and Spyral
+Instructor(s): Ayushi Khemka and Andrew MacDonald
+[Foundations] Text Encoding Fundamentals and Their Application
+Instructor(s): Constance Crompton
+Building Artificial Intelligence Agents for Digital Humanities
+Instructor(s): Yadira Lizama-Mué
+DH Programming Pedagogy in the Age of AI
+Instructor(s): Anastasia Salter and John T. Murray
+Introduction to Computational Text Analysis
+Instructor(s): Jacek Bąkowski and Michał Woźniak
+Introduction to Linked Open Data and the Semantic Web
+Instructor(s): Susan Brown, Kim Martin, and Alliyya Mo
+Introduction to Project Planning and Management for DH: Issues and Approaches
+Instructor(s): Lynne Siemens
+Introduction to Web Archiving
+Instructor(s): Alan Colin-Arce
+L’IA décryptée : fondements techniques et enjeux en SHS
+Instructor(s): Alexia Schneider, Yann Audin, William Bouchard, Marcello Vitali-Rosati
+Nuts and Bolts of DH Project Development
+Instructor(s): Kayla Abner and Lauren Cooper
+Podcasting from Scratch
+Instructor(s): Robin Davies
+Practical JavaScript for Interactive Scholarship
+Instructor(s): Stephen Zweibel and Zachary Lloyd
+Queer(ing) DH
+Instructor(s): Jason Boyd and Edmond Chang
+Spatial Visualization in/for Digital Humanities Research
+Instructor(s): Alex Alisauskas and Lily Demet
+Teaching AI Literacy
+Instructor(s): D.J. Hopkins
+Week 2 (June 15th to June 19th)
+[Foundations] Intro to Spatial Humanities with GIS
+Instructor(s): Amanda Madden
+[Foundations] Race and Social Justice: Methods and Applications
+Instructor(s): Dorothy Kim and Jordan Clapper
+AVAnnotate Open Source Application for Audiovisual Digital Exhibits and Editions
+Instructor(s): Jack DeVry Riordan
+From Handwritten Document to Computable Object: Critical Approaches to Automatic Text Recognition for the Digital Humanities
+Instructor(s): David Joseph Wrisley and Estelle Guéville
+Convivial Machine Learning
+Instructor(s): Gabrielle Benabdallah
+Creating Digital Collections with Minimal Infrastructure: Hands On With CollectionBuilder for Teaching and Exhibits
+Instructor(s): Olivia Wikle, Evan Williamson, and Devin Becker
+Digital Humanities and Libraries
+Instructor(s): Laura Braunstein
+Digital Pedagogy and the Book: Tools, Methods, and Projects
+Instructor(s): Andie Silva
+Engaging Play
+Instructor(s): Jeffrey Lawler
+LLMs from Prompts to Pipelines for Text & Media Analysis & Creativity
+Instructor(s): Chris Tănăsescu
+Markup, Maps, and Multimedia: Building Digital Projects with COVE
+Instructor(s): Kate Faber Oestreich
+Multimodal Rhetoric, Digital Writing
+Instructor(s): Denna Iammarino and Kristine Kelly
+Python Programming for Multilingual Texts
+Instructor(s): Merve Tekgürler and Chloé Brault
+Wiki for Academics: Critical Engagement, Teaching, and Knowledge Dissemination
+Instructor(s): Pascale Dangoisse
+
+
+from Hong Kong Suite
+
+
+I. 
+Hushed Hong of loud Kong—on the double—
+	
+merry Xmas ferry mil£-
+	
+εnary military cros$ing
+	
+from harbor ¢ity to
+	
+the har(Δ)bor(ε Δ) sIDe—end of rain sea-
+		
+sΩn grain t®eason op-
+		
+ium optimal ®ice flavor ©harb-
+	
+Φr $ore con$tructure works—
+	
+	Hushed Hong of loud Kong—on the double—
+	Merry Xmas   灰烬   港口失速  ferry  mill—
+Pyrrhic noise: Apollo, vanished gum—
+from harbor ¢ity
+to the hard end of the heart’s rain—
+grain son treason op,
+on! Het gemis 咬 金子，
+银子，还王八。
+
+
+construction wars—rubble of my double not as in do-
+	construction wars—doubl€(on) not as in doppel
+ppelgänger—while lost on a list a menu the map-
+	ganger—while lost on the list the menu, the map,
+ping escalator—to each their teach and train to oc-
+	the ascent, the teachings, the asceticism of the eye:
+®ean terminal just under popmart OS-
+	雨
+suary of geological massacre—estuary echo
+--- MULTIMODAL INTERRUPT ---
+EVENT SEED: 349985052
+[AUDIO]  gesture=RECUR file=90_dAfers_Domstics.mp4 indices=[101, 35, 43, 9, 103, 65] duration=8.12
+[VIDEO]  gesture=FAIL file=Poemes_de_Gabriel_Guasch__Em_mirava_els_prestatges.mp4 indices=[0, 12, 0, 4, 7, 0] duration=11.10
+--- END INTERRUPT ---
+you can still hear—for guidance—feet sticking & sinking—
+
+
+it’s fantastic all so plastic—
+	it’s fantastic all so plastic—
+torture noise tortoise
+	torture poise on sea of toys
+flying fr€ε up high in my con-
+	—	
+$¢ience bin folder—double (h)arbor by the hour—
+	又一阵 quiet
+the flag tag RAG red$hIφt doppler-g-
+	AUS($) Un Atem Gottes? 谁问？
+änger effect 那些 cicale 猛爆, 腐蚀冠名
+	cicadas erupt violently,
+地铁 车轨 liga, leagă-ntreagă, 
+corroding the names of crowns, bundling them all on
+dublă, oablă, oarbă [quem diz
+	the double, the wobbly, the orb [u get this	
+	
+[NOISE][0]
+	岁末，焰气满渡口
+
+snap battery sand      エンネト カレン            
+静静，bodies贴墓唇，silencio que, al romperse        
+so now the beloved / beg silence / stick flesh          
+墓, unstuck, 醒 or 不醒 sleep                 
+mechanically measuring rotation——chairs未归      
+
+never jetlag past you boy or woman            
+rocks, hips resting    还   再走一次             
+move move limb, 每次踩滑，pastcalendar cattlebrand   
+碎影自画，high-gloss地面回音                             
+
+并非塑性，也非fantastic：砂、血、barren battery              
+ionontone——stone-echo hàn 残音                      
+我找你，en la negrura,         not finding           
+milchluch, 母乳错灌于齿，试图封峦                    
+迷失,断续，en rozbitě ženy                         
+чаще рука сломана чем найдена                                    
+search grain               卡住  stuck sink sink
+喂，不要跟，甩手  
+dare you—三圈半,跳地，甲骨卡肉。  
+破窗，wind，死亡是软牌，死不动 armor 太厚。  
+别试图闭眼睛。  
+trois fois je tourne, 摇头，cheval 声音满死气。  
+
+闭，瓷杯，断牙  
+unkempt, rough draft——  
+so dusty you sleep kneecap  
+窗外旧命,什么都不是  
+助燃。body天气造反，  
+怒马自缚肋骨  
+сам себя，clatter  
+马蹄是睡眠  
+“and the world未完”  
+雨，骑手不断  
+(nei, 不要抚树，错了错了！)  
+
+半开窗，开合，不是奄奄  
+the river is being  
+becoming leg, 不成形  
+死也发生着，  
+カーテンも動かない、cough hold,  
+duel不再起，  
+重力是乱影，  
+干裂，发不出声  
+也不 sage, 干什么  
+flesh krkr  
+noise, 她说响的才有  
+sun, rain, poker face  
+膝碎了未曾生过蛋  
+A snail—壳没脱，留刺  
+concretely 空的，  
+说——断断。  
+strip silence, armor, no  
+no  
+move
+烟气，灰椅膝，扑，扑。crush noise,  
+銀，金，苹果落膝缝，不给你heart，给  
+地气，甲骨，软壳破牙。——  
+そう、エンネト、切れ、  
+propeller, no bee here  
+压肘，盖，目，stare off  
+再低头，焊两句话进脖子，哑哑  
+名字刮肉，Lilith。  
+en gruben いくつもある  
+starcy wyglądają——old-knee-baby  
+stjern—  
+软壳没掉，下牙咬不止  
+He likes to be—问错了  
+像断奶，不再哭。take me, bring me  
+地磁漂，碎片——  
+mousse d'hélicoptère，声音改装  
+針尖釉青，转不到future，  
+豢嗓，轮轴呜咽。  
+se mi dai, soldier,  
+open up—心不烫手  
+floor buzz, not heart  
+落地，kneecap，还有裂缝——  
+像忍，一分钟不够。blow up, slip  
+灰尘也不会渴，乱吸乱贴  
+anagram på tunga——  
+咬不下来，咽  
+嘴唇藏—工地牌号  
+软与咸硬碰坏  
+再折一次，折  
+问，问不全  
+抱不住腿，沙，断
+science bin folder — double (h)arbor by the hour...
+ [...]
+
+III.a. 
+In the beginning was putin—-the Que-
+Bec(n)Oise corrected, poutine—-
+a tinge, a taint, attained—-putin!-—α-
+tenT$ion tones up the Plat(€)-
+eau which tunes in to the big O st(W)ore Ω-
+ce[®ul€]an sheen one can sense
+
+behind the $¢enes, behind the blind g£oss on st. cat-
+herin(G)’s sky scrapers, the empty lots ec(h)o-
+ing the glisten—-puțin!—-of crashed cans rat-
+τλing on the silent waves of the big plastic
+patch drowned out by le lively din on the pro-
+menad€ Du Vi€ux πΟrt—-just one more Péché Mortel on Mar-
+cello, matter’s cello, la matiére qui dan¢e—
+and off to Maisonneuve to listEN to the con-
+
+t[®]ainers being loaded we go, cargo
+di la (α)marea largo—-Phu
+tin tins made en Chine
+designed by Finns—-tank thin-
+king sinking in thought ought to think in-
+side the freight box—-in terms
+
+
+III.b.
+of oℕe size fits all: within—-in in-
+dustries of faraway con-
+flicts inflicting extra net-
+flix flic(k) surv(i)eill(€)ance taxes—-the e-
+vil(£€) axes of ex-comm-
+unicado death excesses of et(h)er-
+
+ℕally others... lexIcon$ uncarGo’d in posts where pe(£/$)ts
+are partagéd—-bOrt(h)ă așe, ajunsă—-window dr.
+®eS$ing screen caressing & grAnd g£am(β) en mass(€)-
+acre aching not just hot to t®ot lot t(w)o πlot gro(w)-
+apã in graVitas gℝaves—-Никто не ever comes
+back но angst ложится в postель—-no one ret-
+urns but angst—-logically, I$—-lodged in bed, b-
+ox-spring, happy sleeping food, can(n)on[t]Ic fodder
+
+for the go(o)d(d) father OPe®rating the u-
+crane, jaws-of-life getting you h-
+OM(μ)€ in a boXXX—-a cubicle in the off(ing)--
+I¢e meTro’s tℝue tRoug(€)h Chinat
+own noOd(£)e place one would love tHeir lie-
+Φe to be bilingu€(f)facted up
+
+
+III.c. 
+at—-on
+ward is up
+war
+d de mo
+un
+t
+
+ro ya al£
+of dis o
+bed i.e. ℕ
+¢€ of man
+Sion son bi
+shop st
+re et st ant
+oIne—-the blaℕc
+
+k BOw
+Xo
+f dis
+o be
+die
+($¢i) €nce...
+[...]
