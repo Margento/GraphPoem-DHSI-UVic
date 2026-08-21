@@ -616,7 +616,7 @@ We gratefully acknowledge the **Digital Humanities Summer Institute (DHSI)** and
 The project's retrospective and speculative trajectories are inseparable from these institutional environments and from the communities that formed within and around them.
 
 
-Our deepest thanks and gratitude go particularly to the Founding Director of DHSI, Prof. Ray Siemens, who full-heartedly supported and encouraged this initiative from its very inception and throughout the UVic years.
+Our deepest thanks and gratitude go particularly to the Founding Director of DHSI, Prof. Ray Siemens, who full-heartedly supported and encouraged this initiative from its very inception and throughout the UVic years. A huge thank you to our colleagues at the Electronic Textual Cultures Lab (ETCL) and the members of all annual DHSI teams. 
 
 
 ### MARGENTO
