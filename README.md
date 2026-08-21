@@ -637,7 +637,7 @@ Coding: Chris Tanasescu (MARGENTO)
 JupyterHub Administration & Coding support: Prasadith Buddhitha Kirinde Gamaarachchige (uOttawa; MARGENTO)
 
 
-NLP expert consultant: Prof. Diana Inkpen (uOttawa)
+NLP expert consultant: Prof. Diana Inkpen (uOttawa; MARGENTO)
 
 
 Poems, excerpts, (&/or lyrics) featured in the videpoem by Elke de Rijcke, Carl Norac, David Baker, Sappho, Ion Barbu, Chris Tanasescu / MARGENTO, & Marina Gingiroff (Abis).
