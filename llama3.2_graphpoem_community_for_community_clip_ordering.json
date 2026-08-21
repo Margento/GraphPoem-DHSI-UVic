@@ -1,0 +1,3 @@
+{
+  "raw_response": "```\n{\n  \"ordering\": [\"shot_0668_time_5646s\", \"shot_0568_time_4339s\", \"shot_0635_time_4843s\", \"shot_0682_time_5321s\", \"shot_0788_time_6806s\"],\n  \"rationale\": [\n    \"The distribution should have the most extreme values at the top.\",\n    \"Then the middle should be less extreme but still quite far out from the mean.\",\n    \"Next, we want to capture the tail on the right side of the distribution.\",\n    \"Finally, we bring in the rest of the data to fill in the gaps and make sure it's reasonable.\",\n    \"The last few clips are not included because they don't have any extreme values.\"\n  ],\n  \"probabilities\": [\n    \"0.0005\",\n    \"0.0011\",\n    \"0.0028\",\n    \"0.0056\",\n    \"0.0073\"\n  ]\n}\n```"
+}

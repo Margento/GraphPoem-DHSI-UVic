@@ -1,0 +1,37 @@
+{
+  "ordering": [
+    "clip_5",
+    "clip_0",
+    "clip_9",
+    "clip_6",
+    "clip_4",
+    "clip_2",
+    "clip_8",
+    "clip_1",
+    "clip_7",
+    "clip_3"
+  ],
+  "rationale": [
+    "Shot 529s is the most coherent with clip_5, both introducing a sense of grandeur.",
+    "The introduction of clip_0 provides an immediate sense of depth and establishes the foundation for the rest of the video.",
+    "After setting the groundwork with clips 5 and 0, we jump into a more experimental phase.",
+    "Clip 9 continues this trend, featuring a mesmerizing sequence that blurs the lines between reality and fantasy.",
+    "The introduction of clip 6 marks a turning point towards the video's emotional peak.",
+    "This section is characterized by intense visuals and rapid-fire editing, emphasizing the theme of creativity.",
+    "As we move into the final stretch, clip 8 introduces a sense of calmness and introspection.",
+    "Clip 1 begins to slow down the pace, inviting the viewer to reflect on what they've seen so far.",
+    "The next section, featuring clip 7, is marked by a series of striking contrasts that highlight the video's themes of fragmentation and unity.",
+    "Finally, we conclude with a nod to clip 3, which serves as a poignant reminder of where we began."
+  ],
+  "probabilities": [
+    0.15,
+    0.24,
+    0.21,
+    0.16,
+    0.12,
+    0.07,
+    0.05,
+    0.04,
+    0.03
+  ]
+}

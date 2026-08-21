@@ -1,0 +1,38 @@
+{
+  "ordering": [
+    "r0",
+    "r1",
+    "r2",
+    "r8",
+    "r3",
+    "r4",
+    "r5",
+    "r7",
+    "r9",
+    "r6"
+  ],
+  "rationale": [
+    "The initial clip sets the tone for the personal and private aspects of creativity within an organization.",
+    "A brief introduction to a more structured approach to innovation is provided, building on the idea of collaboration.",
+    "This shot showcases an example of how ideas can be brought together from diverse backgrounds to create something innovative.",
+    "The next segment focuses on the importance of constructive criticism in fostering growth and development within an organization.",
+    "This clip highlights the value of embracing failure as a stepping stone towards success in creative pursuits.",
+    "A transition shot signals the shift towards integrating personal perspectives with organizational goals.",
+    "An example of how individual talents can contribute to the greater good is presented.",
+    "The next segment emphasizes the need for organizations to adapt and evolve in response to changing market conditions.",
+    "This clip introduces a new perspective on innovation, one that prioritizes human-centered design.",
+    "The final shot serves as a reminder that creativity is a continuous process that requires dedication and perseverance."
+  ],
+  "probabilities": [
+    0.2,
+    0.3,
+    0.1,
+    0.05,
+    0.15,
+    0.05,
+    0.1,
+    0.05,
+    0.1,
+    0.2
+  ]
+}

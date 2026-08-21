@@ -1,0 +1,172 @@
+[
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+    "affect_vector": [
+      [
+        -0.10508361458778381,
+        -0.06528426706790924,
+        -0.031670618802309036
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+    "affect_vector": [
+      [
+        -0.10291644185781479,
+        -0.0768548846244812,
+        -0.035522546619176865
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+    "affect_vector": [
+      [
+        -0.09775879234075546,
+        -0.06471706926822662,
+        -0.06009102240204811
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+    "affect_vector": [
+      [
+        -0.030601195991039276,
+        0.08791570365428925,
+        2.2555041141458787e-05
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+    "affect_vector": [
+      [
+        -0.07153210043907166,
+        0.06248434633016586,
+        -0.06592876464128494
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+    "affect_vector": [
+      [
+        -0.09478096663951874,
+        -0.022206570953130722,
+        -0.05563012883067131
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+    "affect_vector": [
+      [
+        -0.10227682441473007,
+        -0.07040060311555862,
+        -0.038441237062215805
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+    "affect_vector": [
+      [
+        -0.03437073901295662,
+        0.05222543329000473,
+        -0.06077607721090317
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+    "affect_vector": [
+      [
+        -0.07049737870693207,
+        -0.04489115998148918,
+        -0.037521034479141235
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+    "affect_vector": [
+      [
+        -0.09699013084173203,
+        -0.0029829794075340033,
+        -0.018056277185678482
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+    "affect_vector": [
+      [
+        -0.06887836009263992,
+        0.007090435829013586,
+        -0.039248768240213394
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+    "affect_vector": [
+      [
+        -0.09408507496118546,
+        -0.05362189561128616,
+        -0.0285688154399395
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+    "affect_vector": [
+      [
+        -0.09312618523836136,
+        -0.048446930944919586,
+        -0.037576399743556976
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+    "affect_vector": [
+      [
+        -0.07641192525625229,
+        0.006057499907910824,
+        -0.058984436094760895
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+    "affect_vector": [
+      [
+        -0.07439329475164413,
+        -0.0037880246527493,
+        -0.03804115951061249
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+    "affect_vector": [
+      [
+        -0.10191787034273148,
+        -0.03523452952504158,
+        -0.048295315355062485
+      ]
+    ]
+  },
+  {
+    "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+    "affect_vector": [
+      [
+        -0.08656547963619232,
+        -0.04860338568687439,
+        -0.07085434347391129
+      ]
+    ]
+  }
+]

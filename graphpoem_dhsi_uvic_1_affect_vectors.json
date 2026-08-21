@@ -1,0 +1,422 @@
+[
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0026_time_127s.jpg",
+    "affect_vector": [
+      [
+        0.045844171196222305,
+        -0.05032733827829361,
+        -0.04171453416347504
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0010_time_90s.jpg",
+    "affect_vector": [
+      [
+        0.1273687481880188,
+        0.025756796821951866,
+        -0.03966536000370979
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0025_time_126s.jpg",
+    "affect_vector": [
+      [
+        0.10099282115697861,
+        -0.01723034866154194,
+        -0.04189961031079292
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0005_time_45s.jpg",
+    "affect_vector": [
+      [
+        -0.012171262875199318,
+        -0.07118449360132217,
+        -0.021930284798145294
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0024_time_125s.jpg",
+    "affect_vector": [
+      [
+        -0.01607416570186615,
+        -0.04924051836133003,
+        -0.026037614792585373
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0039_time_529s.jpg",
+    "affect_vector": [
+      [
+        -0.07923336327075958,
+        -0.052708134055137634,
+        -0.022966772317886353
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0002_time_24s.jpg",
+    "affect_vector": [
+      [
+        -0.06142980232834816,
+        -0.05234843119978905,
+        -0.09134911745786667
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0023_time_124s.jpg",
+    "affect_vector": [
+      [
+        -0.01061285100877285,
+        -0.016250809654593468,
+        0.0030793207697570324
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0017_time_114s.jpg",
+    "affect_vector": [
+      [
+        0.01789291761815548,
+        -0.035894040018320084,
+        0.016762038692831993
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0041_time_760s.jpg",
+    "affect_vector": [
+      [
+        -0.05008469894528389,
+        0.0009883907623589039,
+        -0.05305685102939606
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0030_time_133s.jpg",
+    "affect_vector": [
+      [
+        0.13797606527805328,
+        0.016564978286623955,
+        -0.047644954174757004
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0034_time_164s.jpg",
+    "affect_vector": [
+      [
+        -0.10238944739103317,
+        0.057782210409641266,
+        -0.07415328919887543
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0003_time_32s.jpg",
+    "affect_vector": [
+      [
+        0.03971569612622261,
+        0.0408310666680336,
+        -0.05817312002182007
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0020_time_119s.jpg",
+    "affect_vector": [
+      [
+        0.10610548406839371,
+        -0.024741631001234055,
+        -0.026336943730711937
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0021_time_120s.jpg",
+    "affect_vector": [
+      [
+        -0.022641165181994438,
+        -0.0579725056886673,
+        -0.005293940659612417
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0015_time_110s.jpg",
+    "affect_vector": [
+      [
+        0.05230073258280754,
+        0.03813163563609123,
+        -0.029507089406251907
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0035_time_423s.jpg",
+    "affect_vector": [
+      [
+        -0.08383984118700027,
+        -0.05261700600385666,
+        -0.03831350430846214
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0012_time_106s.jpg",
+    "affect_vector": [
+      [
+        -0.006730644032359123,
+        -0.05992249399423599,
+        -0.0530063770711422
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0004_time_34s.jpg",
+    "affect_vector": [
+      [
+        -0.09135396033525467,
+        -0.014089963398873806,
+        -0.05371874198317528
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0014_time_108s.jpg",
+    "affect_vector": [
+      [
+        0.03374981880187988,
+        -0.06572509557008743,
+        0.00025244575226679444
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0031_time_157s.jpg",
+    "affect_vector": [
+      [
+        -0.10523465275764465,
+        -0.08330667018890381,
+        -0.04069316014647484
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0038_time_521s.jpg",
+    "affect_vector": [
+      [
+        -0.07760429382324219,
+        -0.06780485063791275,
+        -0.034197140485048294
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0037_time_475s.jpg",
+    "affect_vector": [
+      [
+        -0.06562111526727676,
+        -0.04595322906970978,
+        -0.03451100364327431
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0028_time_128s.jpg",
+    "affect_vector": [
+      [
+        0.013102005235850811,
+        -0.06652870774269104,
+        -0.019770028069615364
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0006_time_55s.jpg",
+    "affect_vector": [
+      [
+        -0.022807566449046135,
+        -0.050287626683712006,
+        -0.05810890719294548
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0022_time_123s.jpg",
+    "affect_vector": [
+      [
+        -0.005628407467156649,
+        -0.04464162141084671,
+        -0.016398297622799873
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0016_time_113s.jpg",
+    "affect_vector": [
+      [
+        0.13419093191623688,
+        0.044461119920015335,
+        0.011753679253160954
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0019_time_117s.jpg",
+    "affect_vector": [
+      [
+        -0.014052319340407848,
+        -0.04951988533139229,
+        -0.019517183303833008
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0009_time_84s.jpg",
+    "affect_vector": [
+      [
+        -0.038551848381757736,
+        -0.06264731287956238,
+        -0.03425480052828789
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0032_time_158s.jpg",
+    "affect_vector": [
+      [
+        -0.09217368811368942,
+        -0.08427146822214127,
+        -0.009054304100573063
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0029_time_130s.jpg",
+    "affect_vector": [
+      [
+        -0.07295161485671997,
+        -0.0338909737765789,
+        -0.02036687359213829
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0040_time_530s.jpg",
+    "affect_vector": [
+      [
+        -0.056377019733190536,
+        -0.025172159075737,
+        -0.06794934719800949
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0000_time_0s.jpg",
+    "affect_vector": [
+      [
+        -0.07771856337785721,
+        0.05079768970608711,
+        -0.03821200504899025
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0013_time_107s.jpg",
+    "affect_vector": [
+      [
+        0.18023377656936646,
+        0.0006355956429615617,
+        -0.049988191574811935
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0033_time_161s.jpg",
+    "affect_vector": [
+      [
+        -0.07403010129928589,
+        -0.027908997610211372,
+        -0.018295805901288986
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0011_time_94s.jpg",
+    "affect_vector": [
+      [
+        0.14455780386924744,
+        0.0760103240609169,
+        -0.004509811755269766
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0018_time_115s.jpg",
+    "affect_vector": [
+      [
+        0.016640232875943184,
+        -0.07192279398441315,
+        -0.027779854834079742
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0007_time_64s.jpg",
+    "affect_vector": [
+      [
+        0.22720842063426971,
+        0.047999463975429535,
+        -0.009606340900063515
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0008_time_76s.jpg",
+    "affect_vector": [
+      [
+        0.025913622230291367,
+        -0.06762074679136276,
+        -0.01176250260323286
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0001_time_2s.jpg",
+    "affect_vector": [
+      [
+        -0.010922645218670368,
+        -0.01780286431312561,
+        -0.06217464059591293
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0027_time_127s.jpg",
+    "affect_vector": [
+      [
+        0.00311879045329988,
+        -0.015364674851298332,
+        -0.05204428732395172
+      ]
+    ]
+  },
+  {
+    "image_path": "graphpoem_dhsi_uvic_1_shots/shot_0036_time_430s.jpg",
+    "affect_vector": [
+      [
+        -0.09629905968904495,
+        -0.08295071870088577,
+        -0.02513284794986248
+      ]
+    ]
+  }
+]

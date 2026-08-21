@@ -1,0 +1,502 @@
+[
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0029_time_318s.jpg",
+    "affect_vector": [
+      [
+        -0.06334900856018066,
+        -0.06753649562597275,
+        -0.027949219569563866
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0011_time_116s.jpg",
+    "affect_vector": [
+      [
+        -0.07011683285236359,
+        -0.0715448260307312,
+        -0.015036550350487232
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0006_time_92s.jpg",
+    "affect_vector": [
+      [
+        -0.0893450379371643,
+        -0.07186601310968399,
+        -0.031191198155283928
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0021_time_223s.jpg",
+    "affect_vector": [
+      [
+        -0.049794454127550125,
+        -0.05365007370710373,
+        -0.030726008117198944
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0018_time_203s.jpg",
+    "affect_vector": [
+      [
+        -0.07435733824968338,
+        -0.03716755285859108,
+        -0.06544040143489838
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0012_time_137s.jpg",
+    "affect_vector": [
+      [
+        -0.06308789551258087,
+        -0.05532711371779442,
+        -0.02964118681848049
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0003_time_52s.jpg",
+    "affect_vector": [
+      [
+        -0.06559984385967255,
+        -0.0172769483178854,
+        -0.0557982511818409
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0010_time_114s.jpg",
+    "affect_vector": [
+      [
+        -0.07333601266145706,
+        -0.06263100355863571,
+        -0.032253969460725784
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0004_time_86s.jpg",
+    "affect_vector": [
+      [
+        -0.06397391110658646,
+        -0.021640222519636154,
+        -0.053420212119817734
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0045_time_389s.jpg",
+    "affect_vector": [
+      [
+        -0.06960680335760117,
+        -0.03615918383002281,
+        -0.038023725152015686
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0001_time_31s.jpg",
+    "affect_vector": [
+      [
+        -0.06724219769239426,
+        -0.021335402503609657,
+        -0.04832712933421135
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0036_time_351s.jpg",
+    "affect_vector": [
+      [
+        -0.08645244687795639,
+        -0.08209776878356934,
+        -0.008449291810393333
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0028_time_316s.jpg",
+    "affect_vector": [
+      [
+        -0.11575299501419067,
+        -0.06366195529699326,
+        -0.049195948988199234
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0031_time_331s.jpg",
+    "affect_vector": [
+      [
+        -0.09272169321775436,
+        -0.017625387758016586,
+        -0.051622889935970306
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0020_time_217s.jpg",
+    "affect_vector": [
+      [
+        -0.06731245666742325,
+        -0.037136055529117584,
+        -0.025610731914639473
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0040_time_373s.jpg",
+    "affect_vector": [
+      [
+        -0.0726652443408966,
+        -0.011793388053774834,
+        -0.08352016657590866
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0017_time_190s.jpg",
+    "affect_vector": [
+      [
+        -0.08421816676855087,
+        -0.08079955726861954,
+        -0.01416773535311222
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0038_time_367s.jpg",
+    "affect_vector": [
+      [
+        -0.05028596147894859,
+        -0.025281311944127083,
+        -0.021170513704419136
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0037_time_363s.jpg",
+    "affect_vector": [
+      [
+        -0.03939858078956604,
+        -0.024613507091999054,
+        -0.021560003980994225
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0032_time_340s.jpg",
+    "affect_vector": [
+      [
+        -0.09118308126926422,
+        0.029565434902906418,
+        -0.046145543456077576
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0022_time_232s.jpg",
+    "affect_vector": [
+      [
+        -0.06861135363578796,
+        -0.07699690014123917,
+        0.0032042469829320908
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0002_time_38s.jpg",
+    "affect_vector": [
+      [
+        -0.07017162442207336,
+        -0.016528254374861717,
+        -0.048850614577531815
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0014_time_148s.jpg",
+    "affect_vector": [
+      [
+        -0.10198739171028137,
+        -0.0801006332039833,
+        -0.029845472425222397
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0027_time_303s.jpg",
+    "affect_vector": [
+      [
+        -0.055076714605093,
+        -0.0582113042473793,
+        -0.04009117931127548
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0047_time_420s.jpg",
+    "affect_vector": [
+      [
+        -0.057414885610342026,
+        -0.05173606425523758,
+        -0.028080478310585022
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0039_time_373s.jpg",
+    "affect_vector": [
+      [
+        -0.05691716447472572,
+        -0.05074506625533104,
+        -0.023624075576663017
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0007_time_108s.jpg",
+    "affect_vector": [
+      [
+        -0.07098659127950668,
+        -0.052601005882024765,
+        -0.029944250360131264
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0034_time_343s.jpg",
+    "affect_vector": [
+      [
+        -0.10824223607778549,
+        -0.03882799297571182,
+        -0.02077610418200493
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0042_time_382s.jpg",
+    "affect_vector": [
+      [
+        -0.06034712493419647,
+        -0.028164055198431015,
+        -0.022768454626202583
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0046_time_418s.jpg",
+    "affect_vector": [
+      [
+        -0.1267687827348709,
+        -0.05945903807878494,
+        -0.031419362872838974
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0026_time_302s.jpg",
+    "affect_vector": [
+      [
+        -0.11494721472263336,
+        -0.06897706538438797,
+        -0.041049323976039886
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0019_time_204s.jpg",
+    "affect_vector": [
+      [
+        -0.04761270061135292,
+        -0.04200368374586105,
+        -0.03773273900151253
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0033_time_341s.jpg",
+    "affect_vector": [
+      [
+        -0.10527841746807098,
+        0.006738357245922089,
+        -0.027622461318969727
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0023_time_244s.jpg",
+    "affect_vector": [
+      [
+        -0.055049117654561996,
+        -0.048960912972688675,
+        -0.026837386190891266
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0025_time_271s.jpg",
+    "affect_vector": [
+      [
+        -0.032154157757759094,
+        0.03755689039826393,
+        -0.016278289258480072
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+    "affect_vector": [
+      [
+        -0.043492771685123444,
+        0.0036906125023961067,
+        0.05865904316306114
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0048_time_431s.jpg",
+    "affect_vector": [
+      [
+        -0.07731273770332336,
+        -0.049058619886636734,
+        -0.027829252183437347
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0041_time_381s.jpg",
+    "affect_vector": [
+      [
+        -0.10520299524068832,
+        -0.05733528733253479,
+        -0.029075175523757935
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0043_time_383s.jpg",
+    "affect_vector": [
+      [
+        -0.05540052801370621,
+        -0.04888046532869339,
+        -0.030426904559135437
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0008_time_109s.jpg",
+    "affect_vector": [
+      [
+        -0.1188206747174263,
+        -0.021320492029190063,
+        -0.0794660821557045
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0009_time_110s.jpg",
+    "affect_vector": [
+      [
+        -0.08567657321691513,
+        -0.030442209914326668,
+        -0.028826871886849403
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0044_time_385s.jpg",
+    "affect_vector": [
+      [
+        -0.09536480903625488,
+        -0.0222158320248127,
+        -0.03191402927041054
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0024_time_263s.jpg",
+    "affect_vector": [
+      [
+        -0.07539524883031845,
+        -0.02656637318432331,
+        -0.03398492932319641
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0015_time_163s.jpg",
+    "affect_vector": [
+      [
+        -0.04322893172502518,
+        -0.04425700008869171,
+        -0.01869010180234909
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0013_time_141s.jpg",
+    "affect_vector": [
+      [
+        -0.05083893984556198,
+        -0.03570101782679558,
+        -0.040637899190187454
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0005_time_88s.jpg",
+    "affect_vector": [
+      [
+        -0.08669596165418625,
+        -0.058786243200302124,
+        -0.008018740452826023
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0049_time_434s.jpg",
+    "affect_vector": [
+      [
+        -0.09819158911705017,
+        -0.052634768187999725,
+        -0.03748122602701187
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0030_time_326s.jpg",
+    "affect_vector": [
+      [
+        -0.05627477914094925,
+        -0.022784091532230377,
+        -0.025074323639273643
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0035_time_344s.jpg",
+    "affect_vector": [
+      [
+        -0.04906325414776802,
+        -0.049384020268917084,
+        -0.03490351885557175
+      ]
+    ]
+  },
+  {
+    "image_path": "comm_singularity_graphpoem_dhsi_shots/shot_0016_time_179s.jpg",
+    "affect_vector": [
+      [
+        -0.08812343329191208,
+        -0.053267475217580795,
+        -0.060990218073129654
+      ]
+    ]
+  }
+]

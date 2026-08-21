@@ -1,0 +1,3995 @@
+{
+  "similarity_matrix": [
+    [
+      -0.9273379355668079,
+      -0.9450344854046286,
+      -0.9817407016826359,
+      0.34960668594897715,
+      -0.3727758673188901,
+      -0.896039193940967,
+      -0.9495862932794751,
+      -0.2737284125476148,
+      -0.9719038636525149,
+      -0.7089272796397821,
+      -0.7400834742357328,
+      -0.9227630651060479,
+      -0.9393267035270495,
+      -0.774375457121971,
+      -0.8112889015970441,
+      -0.9162734418766164,
+      -0.9772986897675436
+    ],
+    [
+      -0.8862288856933541,
+      -0.9115900871044234,
+      -0.9564377609292938,
+      0.41308473062260287,
+      -0.32522283325079926,
+      -0.8527595420172669,
+      -0.9149134993775236,
+      -0.249293035173356,
+      -0.9420396415659454,
+      -0.6331773339954718,
+      -0.6842996958336014,
+      -0.8792873149166257,
+      -0.8983846072450278,
+      -0.7314540782007525,
+      -0.7566369625830547,
+      -0.8712014973530688,
+      -0.9570825708472993
+    ],
+    [
+      -0.9092558519703039,
+      -0.923070212299186,
+      -0.9780724299671635,
+      0.2783654874860205,
+      -0.4520147716381439,
+      -0.9170578251486355,
+      -0.9321464287259327,
+      -0.36436225530079897,
+      -0.9654750834090644,
+      -0.722939696143506,
+      -0.7822032887084944,
+      -0.9076092406914162,
+      -0.932659599523978,
+      -0.8216597518821953,
+      -0.8411474650655938,
+      -0.9243854875391782,
+      -0.988312004803965
+    ],
+    [
+      -0.8648504270023046,
+      -0.8918844514545765,
+      -0.9446326673949071,
+      0.4158662686668095,
+      -0.32916753819878775,
+      -0.8413826458689253,
+      -0.8959983878769748,
+      -0.26488261115617695,
+      -0.9278459902600199,
+      -0.6084658280082836,
+      -0.6744621019548549,
+      -0.8578655457577054,
+      -0.8801794548343352,
+      -0.7276217952950232,
+      -0.7437222704192694,
+      -0.8556003639934555,
+      -0.9511521684960413
+    ],
+    [
+      -0.8613443734420638,
+      -0.8806201702965776,
+      -0.9507873229617799,
+      0.306743512692095,
+      -0.44017903369410577,
+      -0.883598691714279,
+      -0.8904412732729362,
+      -0.3790331888001284,
+      -0.9328112955275101,
+      -0.6567589839155475,
+      -0.7463148073923194,
+      -0.8587348241025307,
+      -0.8896645111220529,
+      -0.7998249817311761,
+      -0.8010085152900466,
+      -0.8837998851310174,
+      -0.971926932947565
+    ],
+    [
+      -0.8615510949231192,
+      -0.8779874957504724,
+      -0.952218673700249,
+      0.2702750076179432,
+      -0.4740730923676046,
+      -0.8967573405603355,
+      -0.889484872510229,
+      -0.4121033769941472,
+      -0.9343187138798719,
+      -0.6747827918535491,
+      -0.769130069545415,
+      -0.8603657493997876,
+      -0.8934346158381362,
+      -0.821575923116724,
+      -0.8195110119072153,
+      -0.8931679748880135,
+      -0.9770017609847482
+    ],
+    [
+      -0.846895369158138,
+      -0.878775923243317,
+      -0.9276802654180041,
+      0.4700000683369842,
+      -0.2738293398569703,
+      -0.807220599405146,
+      -0.8805173789899609,
+      -0.21612291783755905,
+      -0.9100090755688023,
+      -0.5638490510002506,
+      -0.6274678301722512,
+      -0.8377238463220104,
+      -0.8577004674633538,
+      -0.6841104501704092,
+      -0.7015717733087701,
+      -0.8255913006706743,
+      -0.9307097895886809
+    ],
+    [
+      -0.9483674625137155,
+      -0.9692665720728989,
+      -0.9749850391100698,
+      0.43131411962961236,
+      -0.25936982148542365,
+      -0.8590261103712474,
+      -0.9672324575456186,
+      -0.13802506742248125,
+      -0.9709237542301441,
+      -0.6962247034470675,
+      -0.6780241042316035,
+      -0.9401608346117744,
+      -0.942737587436779,
+      -0.6998720021943134,
+      -0.7660423013842841,
+      -0.8989796919928549,
+      -0.9468072082131181
+    ]
+  ],
+  "row_indices": {
+    "0": "shot_0670_time_5183s",
+    "1": "shot_0616_time_4699s",
+    "2": "shot_0508_time_3842s",
+    "3": "shot_0156_time_1246s",
+    "4": "shot_0244_time_1928s",
+    "5": "shot_0073_time_489s",
+    "6": "shot_0758_time_5160s",
+    "7": "shot_0608_time_3806s"
+  },
+  "column_indices": {
+    "0": "shot_0003_time_48s",
+    "1": "shot_0008_time_469s",
+    "2": "shot_0009_time_470s",
+    "3": "shot_0006_time_160s",
+    "4": "shot_0016_time_730s",
+    "5": "shot_0010_time_533s",
+    "6": "shot_0012_time_540s",
+    "7": "shot_0014_time_542s",
+    "8": "shot_0013_time_540s",
+    "9": "shot_0011_time_539s",
+    "10": "shot_0007_time_464s",
+    "11": "shot_0000_time_0s",
+    "12": "shot_0002_time_47s",
+    "13": "shot_0005_time_134s",
+    "14": "shot_0001_time_3s",
+    "15": "shot_0004_time_51s",
+    "16": "shot_0015_time_617s"
+  },
+  "similarity_pairs": [
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.9273379355668079,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.9450344854046286,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.9817407016826359,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.34960668594897715,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.3727758673188901,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.896039193940967,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.9495862932794751,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.2737284125476148,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9719038636525149,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.7089272796397821,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.7400834742357328,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.9227630651060479,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.9393267035270495,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.774375457121971,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.8112889015970441,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.9162734418766164,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0670_time_5183s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.9772986897675436,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0670_time_5183s.jpg",
+        "image_name": "shot_0670_time_5183s.jpg",
+        "similarity": 0.9996363516723352,
+        "affect_vector": [
+          0.027263347059488297,
+          0.026272157207131386,
+          0.02496817521750927
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.8862288856933541,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.9115900871044234,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.9564377609292938,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.41308473062260287,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.32522283325079926,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.8527595420172669,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.9149134993775236,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.249293035173356,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9420396415659454,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.6331773339954718,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.6842996958336014,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.8792873149166257,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.8983846072450278,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.7314540782007525,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.7566369625830547,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.8712014973530688,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0616_time_4699s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.9570825708472993,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0616_time_4699s.jpg",
+        "image_name": "shot_0616_time_4699s.jpg",
+        "similarity": 0.9967289404378608,
+        "affect_vector": [
+          0.012673316523432732,
+          0.015183999203145504,
+          0.014692384749650955
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.9092558519703039,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.923070212299186,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.9780724299671635,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.2783654874860205,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.4520147716381439,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.9170578251486355,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.9321464287259327,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.36436225530079897,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9654750834090644,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.722939696143506,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.7822032887084944,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.9076092406914162,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.932659599523978,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.8216597518821953,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.8411474650655938,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.9243854875391782,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0508_time_3842s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.988312004803965,
+      "mp4_entry": {
+        "folder_id": 2,
+        "folder_path": "graphpoem_dhsi21_extracted_shots",
+        "image_path": "graphpoem_dhsi21_extracted_shots/shot_0508_time_3842s.jpg",
+        "image_name": "shot_0508_time_3842s.jpg",
+        "similarity": 0.9958557792845415,
+        "affect_vector": [
+          0.0024988732766360044,
+          0.0020850365981459618,
+          0.002534895669668913
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.8648504270023046,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.8918844514545765,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.9446326673949071,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.4158662686668095,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.32916753819878775,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.8413826458689253,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.8959983878769748,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.26488261115617695,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9278459902600199,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.6084658280082836,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.6744621019548549,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.8578655457577054,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.8801794548343352,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.7276217952950232,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.7437222704192694,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.8556003639934555,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0156_time_1246s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.9511521684960413,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0156_time_1246s.jpg",
+        "image_name": "shot_0156_time_1246s.jpg",
+        "similarity": 0.9929516653131607,
+        "affect_vector": [
+          0.005747894290834665,
+          0.007235728204250336,
+          0.0074866460636258125
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.8613443734420638,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.8806201702965776,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.9507873229617799,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.306743512692095,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.44017903369410577,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.883598691714279,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.8904412732729362,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.3790331888001284,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9328112955275101,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.6567589839155475,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.7463148073923194,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.8587348241025307,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.8896645111220529,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.7998249817311761,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.8010085152900466,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.8837998851310174,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0244_time_1928s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.971926932947565,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0244_time_1928s.jpg",
+        "image_name": "shot_0244_time_1928s.jpg",
+        "similarity": 0.9893156454677785,
+        "affect_vector": [
+          0.012433947995305061,
+          0.012006694450974464,
+          0.01614866591989994
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.8615510949231192,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.8779874957504724,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.952218673700249,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.2702750076179432,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.4740730923676046,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.8967573405603355,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.889484872510229,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.4121033769941472,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9343187138798719,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.6747827918535491,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.769130069545415,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.8603657493997876,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.8934346158381362,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.821575923116724,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.8195110119072153,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.8931679748880135,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0073_time_489s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.9770017609847482,
+      "mp4_entry": {
+        "folder_id": 4,
+        "folder_path": "graphpoem_dhsi23_extracted_shots",
+        "image_path": "graphpoem_dhsi23_extracted_shots/shot_0073_time_489s.jpg",
+        "image_name": "shot_0073_time_489s.jpg",
+        "similarity": 0.9861084061981313,
+        "affect_vector": [
+          0.038169968873262405,
+          0.033382903784513474,
+          0.04864449426531792
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.846895369158138,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.878775923243317,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.9276802654180041,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.4700000683369842,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.2738293398569703,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.807220599405146,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.8805173789899609,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.21612291783755905,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9100090755688023,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.5638490510002506,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.6274678301722512,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.8377238463220104,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.8577004674633538,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.6841104501704092,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.7015717733087701,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.8255913006706743,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0758_time_5160s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.9307097895886809,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0758_time_5160s.jpg",
+        "image_name": "shot_0758_time_5160s.jpg",
+        "similarity": 0.9859631966369609,
+        "affect_vector": [
+          0.002316769678145647,
+          0.0034364929888397455,
+          0.003281984245404601
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0003_time_48s",
+      "similarity": -0.9483674625137155,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0003_time_48s.jpg",
+        "affect_vector": [
+          [
+            -0.10508361458778381,
+            -0.06528426706790924,
+            -0.031670618802309036
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0008_time_469s",
+      "similarity": -0.9692665720728989,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0008_time_469s.jpg",
+        "affect_vector": [
+          [
+            -0.10291644185781479,
+            -0.0768548846244812,
+            -0.035522546619176865
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0009_time_470s",
+      "similarity": -0.9749850391100698,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0009_time_470s.jpg",
+        "affect_vector": [
+          [
+            -0.09775879234075546,
+            -0.06471706926822662,
+            -0.06009102240204811
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0006_time_160s",
+      "similarity": 0.43131411962961236,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0006_time_160s.jpg",
+        "affect_vector": [
+          [
+            -0.030601195991039276,
+            0.08791570365428925,
+            2.2555041141458787e-05
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0016_time_730s",
+      "similarity": -0.25936982148542365,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0016_time_730s.jpg",
+        "affect_vector": [
+          [
+            -0.07153210043907166,
+            0.06248434633016586,
+            -0.06592876464128494
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0010_time_533s",
+      "similarity": -0.8590261103712474,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0010_time_533s.jpg",
+        "affect_vector": [
+          [
+            -0.09478096663951874,
+            -0.022206570953130722,
+            -0.05563012883067131
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0012_time_540s",
+      "similarity": -0.9672324575456186,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0012_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.10227682441473007,
+            -0.07040060311555862,
+            -0.038441237062215805
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0014_time_542s",
+      "similarity": -0.13802506742248125,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0014_time_542s.jpg",
+        "affect_vector": [
+          [
+            -0.03437073901295662,
+            0.05222543329000473,
+            -0.06077607721090317
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0013_time_540s",
+      "similarity": -0.9709237542301441,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0013_time_540s.jpg",
+        "affect_vector": [
+          [
+            -0.07049737870693207,
+            -0.04489115998148918,
+            -0.037521034479141235
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0011_time_539s",
+      "similarity": -0.6962247034470675,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0011_time_539s.jpg",
+        "affect_vector": [
+          [
+            -0.09699013084173203,
+            -0.0029829794075340033,
+            -0.018056277185678482
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0007_time_464s",
+      "similarity": -0.6780241042316035,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0007_time_464s.jpg",
+        "affect_vector": [
+          [
+            -0.06887836009263992,
+            0.007090435829013586,
+            -0.039248768240213394
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0000_time_0s",
+      "similarity": -0.9401608346117744,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0000_time_0s.jpg",
+        "affect_vector": [
+          [
+            -0.09408507496118546,
+            -0.05362189561128616,
+            -0.0285688154399395
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0002_time_47s",
+      "similarity": -0.942737587436779,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0002_time_47s.jpg",
+        "affect_vector": [
+          [
+            -0.09312618523836136,
+            -0.048446930944919586,
+            -0.037576399743556976
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0005_time_134s",
+      "similarity": -0.6998720021943134,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0005_time_134s.jpg",
+        "affect_vector": [
+          [
+            -0.07641192525625229,
+            0.006057499907910824,
+            -0.058984436094760895
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0001_time_3s",
+      "similarity": -0.7660423013842841,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0001_time_3s.jpg",
+        "affect_vector": [
+          [
+            -0.07439329475164413,
+            -0.0037880246527493,
+            -0.03804115951061249
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0004_time_51s",
+      "similarity": -0.8989796919928549,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0004_time_51s.jpg",
+        "affect_vector": [
+          [
+            -0.10191787034273148,
+            -0.03523452952504158,
+            -0.048295315355062485
+          ]
+        ]
+      }
+    },
+    {
+      "mp4_shot": "shot_0608_time_3806s",
+      "image": "shot_0015_time_617s",
+      "similarity": -0.9468072082131181,
+      "mp4_entry": {
+        "folder_id": 3,
+        "folder_path": "graphpoem_dhsi22_extracted_shots",
+        "image_path": "graphpoem_dhsi22_extracted_shots/shot_0608_time_3806s.jpg",
+        "image_name": "shot_0608_time_3806s.jpg",
+        "similarity": 0.9858828651019992,
+        "affect_vector": [
+          0.008801892399787903,
+          0.00967123918235302,
+          0.006198488175868988
+        ],
+        "source": "cache"
+      },
+      "image_entry": {
+        "image_path": "costin_graphpoem_dhsi_shots/shot_0015_time_617s.jpg",
+        "affect_vector": [
+          [
+            -0.08656547963619232,
+            -0.04860338568687439,
+            -0.07085434347391129
+          ]
+        ]
+      }
+    }
+  ]
+}
