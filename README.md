@@ -199,13 +199,10 @@ The project examines whether the institutional, communal, and personal trajector
 The communal strand is particularly important here as a possible dynamic bridge between institutional and personal trajectories.
 
 
-The outputs of this stage therefore do not simply answer the question:
+The outputs of this stage therefore do not only answer the question: Which clip is most similar to this text?
 
 
-> Which clip is most similar to this text?
-
-
-They also support broader questions such as:
+They also (and mainly) aim to support broader questions such as:
 
 
 * Do retrospective and future materials converge on similar clips?
