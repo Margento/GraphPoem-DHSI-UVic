@@ -18,6 +18,12 @@ The resulting analysis suggested that institutional records evolve intermedially
 The resulting videopoem samples records from each strand, interspersing them with flashforwards that emerge according to probabilistic distributions that elude extractivist learners. The project thus stages a speculative encounter between computational patterning, intermedial memory, and possible futures.
 
 
+## VIDEOPOEM ON YOUTUBE
+
+
+Watch MARGENTO #GraphPoem @ DHSI @UVic 2019-24 here: https://www.youtube.com/watch?v=zwdpW2y0ALQ 
+
+
 ## METHODOLOGY
 The retrospective textual components of the three dimensions were mapped to most similar clips in the recordings based on affect vectors around scene changes or cuts. Then similarities between the latter and the textual futures were computed based not on affect, but on basic (poetic and environmental/musical) acoustic and temporal features (https://github.com/Margento/graph-poem). This was an opportunity to probe whether the three strands stayed the course or intermingled in their projected evolution (by checking whether the textual futures evolved towards the same clips as their retrospective counterparts in the wider environment of all livestream recordings). The outputs told us which clips and texts (from which future) will jam which strand’s retrospective record.
 
