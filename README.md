@@ -21,7 +21,13 @@ The resulting videopoem samples records from each strand, interspersing them wit
 ## VIDEOPOEM ON YOUTUBE
 
 
-Watch MARGENTO #GraphPoem @ DHSI @UVic 2019-24 here: https://www.youtube.com/watch?v=zwdpW2y0ALQ 
+Watch 
+
+
+MARGENTO #GraphPoem @ DHSI @UVic 2019-24 
+
+
+here: https://www.youtube.com/watch?v=zwdpW2y0ALQ 
 
 
 ## METHODOLOGY
